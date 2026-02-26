@@ -77,4 +77,5 @@ job0001/
 <img src="https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEQ46RpjajVTi_3kP5rbUPLqY0xc2tnBgACciIAAvfBcFQ-ovB-4Icw6ToE.png" alt="InsufficientBalanceException" style="zoom:67%;" />
 
 - 相关测试部分
-<img src="https://youke.xn--y7xa690gmna.cn/s1/2026/02/12/698da9d416664.webp" alt="test" style="zoom:67%;" />
+<img src="https://pub-f74a867aaa984b688fc9aac4f0ff1fbd.r2.dev/Snipaste_2026-02-12_18-21-02.png" alt="test" style="zoom:67%;" />
+
